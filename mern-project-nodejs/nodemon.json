@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "DB_USER" : "hafizi1997",
+        "DB_PASSWORD": "1291997kamaL",
+        "DB_NAME" : "mern",
+        "JWT_KEY" : "supersecret_dont_share"
+    }
+}
